@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/simplernix/leetcode-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/simplernix/leetcode-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/simplernix/leetcode-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/simplernix/leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/simplernix/leetcode-solved/tree/master/0875-koko-eating-bananas) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/simplernix/leetcode-solved/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/simplernix/leetcode-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/simplernix/leetcode-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/simplernix/leetcode-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/simplernix/leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/simplernix/leetcode-solved/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/simplernix/leetcode-solved/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/simplernix/leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
