@@ -1,15 +1,19 @@
 class Solution { // 8 ms, faster than 91.61%
 public:
     int lengthOfLIS(vector<int>& nums) {
-        vector<int> sub;
-        for (int x : nums) {
-            if (sub.empty() || sub[sub.size() - 1] < x) {
-                sub.push_back(x);
-            } else {
-                auto it = lower_bound(sub.begin(), sub.end(), x); // Find the index of the first element >= x
-                *it = x; // Replace that number with x
+        vector<int> temp;
+        int len=1;
+        temp.push_back(nums[0]);
+        for(int i=1;i<nums.size();i++){
+            if (nums[i]>temp.back()){
+                temp.push_back(nums[i]);
+                len++;
+            }
+            else{
+                int index = lower_bound(temp.begin(),temp.end(),nums[i])-temp.begin();
+                temp[index]=nums[i];
             }
         }
-        return sub.size();
+        return len;
     }
 };
