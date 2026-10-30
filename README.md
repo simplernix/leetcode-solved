@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/simplernix/leetcode-solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/simplernix/leetcode-solved/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/simplernix/leetcode-solved/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/simplernix/leetcode-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/simplernix/leetcode-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/simplernix/leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/simplernix/leetcode-solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/simplernix/leetcode-solved/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/simplernix/leetcode-solved/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
